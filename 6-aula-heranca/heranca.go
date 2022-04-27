@@ -12,7 +12,7 @@ type pessoa struct {
 }
 
 type heraca struct {
-	pessoa //declare a struct sem nenum tipo declado
+	pessoa //declare a struct sem nenum tipo declado para fazer heranca
 	estuda string
 	luta   string
 	corre  float32
